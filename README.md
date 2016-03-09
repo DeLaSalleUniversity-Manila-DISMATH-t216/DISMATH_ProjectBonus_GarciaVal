@@ -7,7 +7,7 @@
 #Linear Search
 ![filename](bonus4.png)
 ![filename](bonus5.png)
-#BInary Search
+#Binary Search
 ![filename](bonus6.png)
 ![filename](bonus7.png)
 
